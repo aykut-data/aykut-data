@@ -3,7 +3,7 @@
 
 # Aykut Yılmaz
 
-## Data Analyst | Data Scientist | Dublin, Ireland 🇮🇪
+## Data Scientist | Quantitative Researcher | Dublin, Ireland 🇮🇪
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://r-project.org)
@@ -16,8 +16,8 @@
 
 **Data Science postgraduate (Level 9, in progress)** skilled in **Python (Pandas, NumPy)**, **R**, **SQL**, and statistical analysis.
 
-Developed real-time predictive models (**LSTM, Linear/Logistic Regression**) and conducted hypothesis testing (**ANOVA, t-tests**) through hands-on academic projects.
+Developed real-time predictive models (**LSTM, Linear/Logistic Regression**) and conducted hypothesis testing (**ANOVA, t-tests**) through hands-on research and academic projects.
 
-**Proficient** in data visualization (**Seaborn, ggplot2**), ETL processes, and delivering actionable insights from live datasets.
+**Proficient** in data visualization (**Bokeh, Seaborn, ggplot2**), ETL processes, and delivering actionable insights from live datasets.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykut-yilmaz-a14306143/)
