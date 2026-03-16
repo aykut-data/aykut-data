@@ -14,10 +14,11 @@
 
 ## 👨‍💼 Professional Summary
 
-**Data Science postgraduate (Level 9, in progress)** skilled in **Python (Pandas, NumPy)**, **R**, **SQL**, and statistical analysis.
-
-Developed real-time predictive models (**LSTM, Linear/Logistic Regression**) and conducted hypothesis testing (**ANOVA, t-tests**) through hands-on research and academic projects.
-
-**Proficient** in data visualization (**Bokeh, Seaborn, ggplot2**), ETL processes, and delivering actionable insights from live datasets.
+Analytical professional with an engineering background and a postgraduate in Data Science (Level 9,
+in progress). Skilled in Python (Pandas, NumPy, TA-Lib), R, and SQL. Developed real-time predictive
+models and systematic trading frameworks, utilizing Scikit-learn for regression analysis and
+conducting rigorous hypothesis testing (ANOVA, t-tests). Proficient in advanced data visualization
+(Bokeh, Seaborn) and ETL processes, with a focus on delivering actionable insights from complex,
+live datasets.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykut-data/)
