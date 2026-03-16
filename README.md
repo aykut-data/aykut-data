@@ -20,4 +20,4 @@ Developed real-time predictive models (**LSTM, Linear/Logistic Regression**) and
 
 **Proficient** in data visualization (**Bokeh, Seaborn, ggplot2**), ETL processes, and delivering actionable insights from live datasets.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykut-yilmaz-a14306143/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykut-data/)
